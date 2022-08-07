@@ -1,0 +1,15 @@
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.exe
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.deps.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.runtimeconfig.json
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.csproj.AssemblyReference.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.AssemblyInfoInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.AssemblyInfo.cs
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.csproj.CoreCompileInputs.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\refint\Ex010_MethodArray.dll
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.pdb
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.genruntimeconfig.cache
+E:\Обучение\обучение Аналитик\3. Знакомство с языками программирования\С#\лекции\lecture2_CSharp\Ex010_MethodArray\obj\Debug\net6.0\ref\Ex010_MethodArray.dll
